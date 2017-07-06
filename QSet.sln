@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mulholland.QSet.Application", "Source\Mulholland.QSet.Application\Mulholland.QSet.Application.csproj", "{7DC187E3-4BBF-49AA-8264-C30FA68534ED}"
 EndProject
@@ -11,6 +11,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mulholland.QSet.Model", "Source\Mulholland.QSet.Model\Mulholland.QSet.Model.csproj", "{164476FD-846F-4561-8FCD-4F9B850D667F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mulholland.QSet.Resources", "Source\Mulholland.QSet.Resources\Mulholland.QSet.Resources.csproj", "{1647DFD0-A07D-4173-87C0-466C3CF92611}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{0187CF31-B1AB-4ECC-A150-6A7AAAEC2B82}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.MD = README.MD
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

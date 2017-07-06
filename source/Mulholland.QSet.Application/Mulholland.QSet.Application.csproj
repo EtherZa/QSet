@@ -133,7 +133,7 @@
       <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
     </ProjectReference>
     <ProjectReference Include="..\Mulholland.QSet.Model\Mulholland.QSet.Model.csproj">
-      <Name>Mulholland.QSetModel</Name>
+      <Name>Mulholland.QSet.Model</Name>
       <Project>{164476FD-846F-4561-8FCD-4F9B850D667F}</Project>
       <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
     </ProjectReference>
@@ -143,7 +143,7 @@
       <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
     </ProjectReference>
     <ProjectReference Include="..\Mulholland.WinForms\Mulholland.WinForms.csproj">
-      <Name>Mulholland.WinForms.Controls</Name>
+      <Name>Mulholland.WinForms</Name>
       <Project>{8E56C2C6-046B-44D9-956E-8FAB58595519}</Project>
       <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
     </ProjectReference>
